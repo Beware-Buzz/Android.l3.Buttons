@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab3Proj1</string>
+    <string name="but1">1</string>
+    <string name="but2">2</string>
+    <string name="but3">3</string>
+    <string name="but4">4</string>
+    <string name="left50">left 50%</string>
+    <string name="right50">rigth 50%</string>
+    <string name="cenl">center_left</string>
+    <string name="cen">center</string>
+    <string name="cenr">center_right</string>
+    <string name="bot">bottom</string>
+
+</resources>
